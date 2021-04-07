@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '랩 02: SQL을 사용하여 Azure SQL Database 쿼리'
     module: '모듈 02: Azure에서 관계형 데이터 살펴보기'
