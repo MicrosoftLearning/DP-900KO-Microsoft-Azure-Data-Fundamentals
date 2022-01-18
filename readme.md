@@ -1,4 +1,13 @@
-﻿# Microsoft Azure 데이터 기본 사항
+**Important Notice!**
+
+This repo was replaced by a [new repo](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.ko-kr) on December 18th 2021. We're making this change to improve the localized version of this content and reduce the delta between English and localized content updates. 
+After a short interval, this repo will be archived.
+
+**Contributions**
+
+At this time, we are not accepting external contributions to this repo. If you have suggestions or spot any errors, please create a pull request or report an issue on the [new repo](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals.ko-kr).
+
+# Microsoft Azure 데이터 기본 사항
 
 이 리포지토리에는 Microsoft 과정 [DP-900 *Microsoft Azure 데이터 기본 사항*](https://docs.microsoft.com/ko-kr/learn/certifications/courses/dp-900t00) 및 [Microsoft Learn의 자기 주도적 모듈](https://docs.microsoft.com/ko-kr/users/23110622/collections/0kjyh8rn5gdrjj/)의 실습 랩 연습이 포함되어 있습니다. 랩은 학습 자료와 함께 진행할 수 있으며, 설명되어 있는 기술을 사용하여 연습할 수 있게 도와줍니다. 
 
